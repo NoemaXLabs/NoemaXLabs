@@ -15,6 +15,9 @@
   <a href="https://t.me/NoemaLabs">
     <img src="https://img.shields.io/badge/Telegram-%40NoemaLabs-0A0A0D?style=for-the-badge&labelColor=0A0A0D&color=4e49f7" alt="Telegram">
   </a>
+  <a href="https://x.com/NoemaLabs">
+    <img src="https://img.shields.io/badge/X-%40NoemaLabs-0A0A0D?style=for-the-badge&labelColor=0A0A0D&color=4e49f7" alt="X">
+  </a>
 </p>
 
 <br>
@@ -90,6 +93,7 @@ We believe good security work is not just a checklist. It comes from taking the 
 For audit requests, send repo access, commit hash, docs, scope notes, and target delivery window.
 
 - Telegram: [@NoemaLabs](https://t.me/NoemaLabs)
+- X: [@NoemaLabs](https://x.com/NoemaLabs)
 - Website: [noemaxlabs.com](https://noemaxlabs.com)
 - Aamir: [@ua1552](https://twitter.com/ua1552)
 - Aasif: [@Aasif1552](https://twitter.com/Aasif1552)
