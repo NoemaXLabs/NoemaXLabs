@@ -242,6 +242,8 @@ For audit requests, send repo access, commit hash, docs, scope notes, and target
 <a href="mailto:contact@noema-labs.com"><strong>contact@noema-labs.com</strong></a>
 <br />
 <a href="https://noema-labs.com"><strong>noema-labs.com</strong></a>
+<br />
+<a href="https://github.com/NoemaXLabs"><strong>github.com/NoemaXLabs</strong></a>
 
 <br /><br />
 
