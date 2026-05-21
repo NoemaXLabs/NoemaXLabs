@@ -1,255 +1,95 @@
-<div align="center">
+<p align="center">
+  <img src="./logo.svg" width="180" alt="Noema Labs logo" />
+</p>
 
-<img src="./assets/logo.svg" width="112" alt="Noema Labs logo" />
+<h1 align="center">NoemaLabs</h1>
 
-# NOEMA LABS
+<p align="center">
+  Smart contract security for growing Web3 teams.
+</p>
 
-### Smart contract security for growing Web3 teams
+<p align="center">
+  <a href="https://noemaxlabs.com">
+    <img src="https://img.shields.io/badge/Website-noemaxlabs.com-0A0A0D?style=for-the-badge&labelColor=0A0A0D&color=4e49f7" alt="Website">
+  </a>
+  <a href="https://t.me/NoemaLabs">
+    <img src="https://img.shields.io/badge/Telegram-%40NoemaLabs-0A0A0D?style=for-the-badge&labelColor=0A0A0D&color=4e49f7" alt="Telegram">
+  </a>
+</p>
 
-<br /><br />
+<br>
 
-[![Website](https://img.shields.io/badge/Website-noema--labs.com-0A0A0D?style=for-the-badge&labelColor=0A0A0D&color=5C62EC)](https://noema-labs.com)
-[![Email](https://img.shields.io/badge/Email-contact%40noema--labs.com-0A0A0D?style=for-the-badge&labelColor=0A0A0D&color=5C62EC)](mailto:contact@noema-labs.com)
+## About Us
 
-</div>
+NoemaLabs is a dedicated smart contract security research team founded by two brothers with a shared goal: helping Web3 teams ship safer protocols.
 
-<br /><br />
+Our work is founder-led and research-first. We combine exhaustive manual review with AI-assisted checks to understand protocol design, implementation logic, integrations, and edge-case behavior across DeFi, infrastructure, and cross-chain systems.
 
-<div align="center">
+We believe good security work is not just a checklist. It comes from taking the time to understand each protocol's invariants, communicate clearly with the team, and deliver findings that are practical to fix.
+
+<br>
 
 ## Findings Summary
 
-</div>
-
-<br />
-
-<div align="center">
-
-<table width="100%" style="width: 100%;">
-<tr>
-<td align="center" width="50%">
-<h1>62</h1>
-<strong>High Severity Findings</strong>
-<br />
-<sub>Public audit competitions and reports</sub>
-</td>
-<td align="center" width="50%">
-<h1>36</h1>
-<strong>Medium Severity Findings</strong>
-<br />
-<sub>Public audit competitions and reports</sub>
-</td>
-</tr>
+<table align="center">
+  <tr>
+    <td align="center">
+      <strong><font size="7">62</font></strong>
+      <br>
+      <strong><big>High Findings</big></strong>
+    </td>
+    <td align="center">
+      <strong><font size="7">36</font></strong>
+      <br>
+      <strong><big>Medium Findings</big></strong>
+    </td>
+  </tr>
 </table>
 
-</div>
-
-<br /><br />
-
-<div align="center">
+<br>
 
 ## Public Findings Ledger
 
-</div>
+| Contest | Platform | Placement | Findings | Date | Report |
+| --- | --- | --- | --- | --- | --- |
+| Daao-contracts | Cantina | 1st | 8 H, 1 M | Jan 2025 | TBA |
+| [LiquidRon](https://code4rena.com/reports/2025-01-liquid-ron) | Code4rena | 1st | 1 H, 2 M | Jan 2025 | [Report](https://code4rena.com/reports/2025-01-liquid-ron) |
+| [vVv Launchpad - Investments & Token distribution](https://github.com/sherlock-protocol/sherlock-reports/blob/main/audits/2024.11.17%20-%20Final%20-%20vVv%20Launchpad%20-%20Investments%20%26%20Token%20distribution%20Audit%20Report.pdf) | Sherlock | 1st | 1 H | Nov 2024 | [Report](https://github.com/sherlock-protocol/sherlock-reports/blob/main/audits/2024.11.17%20-%20Final%20-%20vVv%20Launchpad%20-%20Investments%20%26%20Token%20distribution%20Audit%20Report.pdf) |
+| [EigenLayer Contracts](https://cantina.xyz/portfolio/263f2eb5-c89e-4788-9026-e0e453d91c39) | Cantina | 3rd | 1 M | May 2025 | [Report](https://cantina.xyz/portfolio/263f2eb5-c89e-4788-9026-e0e453d91c39) |
+| Cross Chain Realitio | Hats | 3rd | TBA | Sep 2025 | TBA |
+| [Superform Core](https://cantina.xyz/portfolio/94cba55c-a593-4798-9866-a573a734738d) | Cantina | 4th | 2 H, 2 M | May 2025 | [Report](https://cantina.xyz/portfolio/94cba55c-a593-4798-9866-a573a734738d) |
+| [Desk Orderbook](https://cantina.xyz/portfolio/5c335680-b1a3-4d45-8948-bcc18c53a6f3) | Cantina | 4th | 2 M | Jan 2025 | [Report](https://cantina.xyz/portfolio/5c335680-b1a3-4d45-8948-bcc18c53a6f3) |
+| Uniswap Unistaker Infrastructure | Code4rena | 4th | 1 L | Feb 2024 | TBA |
+| Telcoin Platform Audit | Sherlock | 5th | 2 H, 1 M | Jan 2024 | [Report](https://github.com/sherlock-protocol/sherlock-reports/blob/main/audits/2024.01.15%20-%20Final%20-%20Telcoin%20Platform%20Audit%20Audit%20Report.pdf) |
+| [Doppler Contracts](https://cantina.xyz/portfolio/263f2eb5-c89e-4788-9026-e0e453d91c39) | Cantina | 6th | 4 H | Jan 2025 | [Report](https://cantina.xyz/portfolio/263f2eb5-c89e-4788-9026-e0e453d91c39) |
+| SuperDCA Liquidity Network | Sherlock | 6th | 3 H, 2 M | Sep 2025 | TBA |
+| [Kelp DAO \| rsETH](https://code4rena.com/reports/2023-11-kelp) | Code4rena | 9th | 3 H | Nov 2023 | [Report](https://code4rena.com/reports/2023-11-kelp) |
+| [OP Labs Safe Extensions](https://cantina.xyz/portfolio/1b6a9e55-49a8-46e9-8272-a849fd60fcc4) | Cantina | 10th | 2 M | May 2024 | [Report](https://cantina.xyz/portfolio/1b6a9e55-49a8-46e9-8272-a849fd60fcc4) |
+| [Decent](https://code4rena.com/audits/2024-01-decent) | Code4rena | 10th | 3 H | Jan 2024 | [Report](https://code4rena.com/audits/2024-01-decent) |
+| Burve | Sherlock | 13th | 1 H | Apr 2025 | TBA |
+| Zetachain | Sherlock | 25th | 1 H, 4 M | Aug 2024 | TBA |
+| [Revolution](https://code4rena.com/reports/2023-12-revolutionprotocol) | Code4rena | 30th | 2 M | Dec 2023 | [Report](https://code4rena.com/reports/2023-12-revolutionprotocol) |
+| [Folks Finance](https://reports.immunefi.com/folks-finance-staking-contracts?utm_source=boost_program_page&_gl=1*1yt5yi8*_gcl_au*MjYzOTM0MTY1LjE3NzQ4NjY4NDc.*_ga*MTU2ODI1ODYyMS4xNzY1NjA5NDA2*_ga_JPHMK6RZT0*czE3NzkxNzA0NTIkbzY2JGcxJHQxNzc5MTcwNTMwJGo2MCRsMCRoMTQ1NDc3NDg1OQ..) | Immunefi | 46th | 1 L | Mar 2026 | [Report](https://reports.immunefi.com/folks-finance-staking-contracts?utm_source=boost_program_page&_gl=1*1yt5yi8*_gcl_au*MjYzOTM0MTY1LjE3NzQ4NjY4NDc.*_ga*MTU2ODI1ODYyMS4xNzY1NjA5NDA2*_ga_JPHMK6RZT0*czE3NzkxNzA0NTIkbzY2JGcxJHQxNzc5MTcwNTMwJGo2MCRsMCRoMTQ1NDc3NDg1OQ..) |
+| Chainlink Staking v0.2 | Code4rena | TBA | 1 M, 1 L | Aug 2023 | TBA |
 
-<br />
+<br>
 
-<table width="100%" style="width: 100%;">
-<thead>
-<tr>
-<th>Contest</th>
-<th>Platform</th>
-<th>Placement</th>
-<th>Findings</th>
-<th>Date</th>
-<th>Report</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><strong>Daao-contracts</strong></td>
-<td>Cantina</td>
-<td><strong>1st</strong></td>
-<td><code>8 H, 1 M</code></td>
-<td>Jan 2025</td>
-<td>TBA</td>
-</tr>
-<tr>
-<td><a href="https://code4rena.com/reports/2025-01-liquid-ron"><strong>LiquidRon</strong></a></td>
-<td>Code4rena</td>
-<td><strong>1st</strong></td>
-<td><code>1 H, 2 M</code></td>
-<td>Jan 2025</td>
-<td><a href="https://code4rena.com/reports/2025-01-liquid-ron">Report</a></td>
-</tr>
-<tr>
-<td><a href="https://github.com/sherlock-protocol/sherlock-reports/blob/main/audits/2024.11.17%20-%20Final%20-%20vVv%20Launchpad%20-%20Investments%20%26%20Token%20distribution%20Audit%20Report.pdf"><strong>vVv Launchpad - Investments & Token distribution</strong></a></td>
-<td>Sherlock</td>
-<td><strong>1st</strong></td>
-<td><code>1 H</code></td>
-<td>Nov 2024</td>
-<td><a href="https://github.com/sherlock-protocol/sherlock-reports/blob/main/audits/2024.11.17%20-%20Final%20-%20vVv%20Launchpad%20-%20Investments%20%26%20Token%20distribution%20Audit%20Report.pdf">Report</a></td>
-</tr>
-<tr>
-<td><a href="https://cantina.xyz/portfolio/263f2eb5-c89e-4788-9026-e0e453d91c39"><strong>EigenLayer Contracts</strong></a></td>
-<td>Cantina</td>
-<td><strong>3rd</strong></td>
-<td><code>1 M</code></td>
-<td>May 2025</td>
-<td><a href="https://cantina.xyz/portfolio/263f2eb5-c89e-4788-9026-e0e453d91c39">Report</a></td>
-</tr>
-<tr>
-<td><strong>Cross Chain Realitio</strong></td>
-<td>Hats</td>
-<td><strong>3rd</strong></td>
-<td>TBA</td>
-<td>Sep 2025</td>
-<td>TBA</td>
-</tr>
-<tr>
-<td><a href="https://cantina.xyz/portfolio/94cba55c-a593-4798-9866-a573a734738d"><strong>Superform Core</strong></a></td>
-<td>Cantina</td>
-<td><strong>4th</strong></td>
-<td><code>2 H, 2 M</code></td>
-<td>May 2025</td>
-<td><a href="https://cantina.xyz/portfolio/94cba55c-a593-4798-9866-a573a734738d">Report</a></td>
-</tr>
-<tr>
-<td><a href="https://cantina.xyz/portfolio/5c335680-b1a3-4d45-8948-bcc18c53a6f3"><strong>Desk Orderbook</strong></a></td>
-<td>Cantina</td>
-<td><strong>4th</strong></td>
-<td><code>2 M</code></td>
-<td>Jan 2025</td>
-<td><a href="https://cantina.xyz/portfolio/5c335680-b1a3-4d45-8948-bcc18c53a6f3">Report</a></td>
-</tr>
-<tr>
-<td><strong>Uniswap Unistaker Infrastructure</strong></td>
-<td>Code4rena</td>
-<td><strong>4th</strong></td>
-<td><code>1 L</code></td>
-<td>Feb 2024</td>
-<td>TBA</td>
-</tr>
-<tr>
-<td><strong>Telcoin Platform Audit</strong></td>
-<td>Sherlock</td>
-<td><strong>5th</strong></td>
-<td><code>2 H, 1 M</code></td>
-<td>Jan 2024</td>
-<td><a href="https://github.com/sherlock-protocol/sherlock-reports/blob/main/audits/2024.01.15%20-%20Final%20-%20Telcoin%20Platform%20Audit%20Audit%20Report.pdf">Report</a></td>
-</tr>
-<tr>
-<td><a href="https://cantina.xyz/portfolio/263f2eb5-c89e-4788-9026-e0e453d91c39"><strong>Doppler Contracts</strong></a></td>
-<td>Cantina</td>
-<td><strong>6th</strong></td>
-<td><code>4 H</code></td>
-<td>Jan 2025</td>
-<td><a href="https://cantina.xyz/portfolio/263f2eb5-c89e-4788-9026-e0e453d91c39">Report</a></td>
-</tr>
-<tr>
-<td><strong>SuperDCA Liquidity Network</strong></td>
-<td>Sherlock</td>
-<td><strong>6th</strong></td>
-<td><code>3 H, 2 M</code></td>
-<td>Sep 2025</td>
-<td>TBA</td>
-</tr>
-<tr>
-<td><a href="https://code4rena.com/reports/2023-11-kelp"><strong>Kelp DAO | rsETH</strong></a></td>
-<td>Code4rena</td>
-<td><strong>9th</strong></td>
-<td><code>3 H</code></td>
-<td>Nov 2023</td>
-<td><a href="https://code4rena.com/reports/2023-11-kelp">Report</a></td>
-</tr>
-<tr>
-<td><a href="https://cantina.xyz/portfolio/1b6a9e55-49a8-46e9-8272-a849fd60fcc4"><strong>OP Labs Safe Extensions</strong></a></td>
-<td>Cantina</td>
-<td><strong>10th</strong></td>
-<td><code>2 M</code></td>
-<td>May 2024</td>
-<td><a href="https://cantina.xyz/portfolio/1b6a9e55-49a8-46e9-8272-a849fd60fcc4">Report</a></td>
-</tr>
-<tr>
-<td><a href="https://code4rena.com/audits/2024-01-decent"><strong>Decent</strong></a></td>
-<td>Code4rena</td>
-<td><strong>10th</strong></td>
-<td><code>3 H</code></td>
-<td>Jan 2024</td>
-<td><a href="https://code4rena.com/audits/2024-01-decent">Report</a></td>
-</tr>
-<tr>
-<td><strong>Burve</strong></td>
-<td>Sherlock</td>
-<td><strong>13th</strong></td>
-<td><code>1 H</code></td>
-<td>Apr 2025</td>
-<td>TBA</td>
-</tr>
-<tr>
-<td><strong>Zetachain</strong></td>
-<td>Sherlock</td>
-<td><strong>25th</strong></td>
-<td><code>1 H, 4 M</code></td>
-<td>Aug 2024</td>
-<td>TBA</td>
-</tr>
-<tr>
-<td><a href="https://code4rena.com/reports/2023-12-revolutionprotocol"><strong>Revolution</strong></a></td>
-<td>Code4rena</td>
-<td><strong>30th</strong></td>
-<td><code>2 M</code></td>
-<td>Dec 2023</td>
-<td><a href="https://code4rena.com/reports/2023-12-revolutionprotocol">Report</a></td>
-</tr>
-<tr>
-<td><a href="https://reports.immunefi.com/folks-finance-staking-contracts?utm_source=boost_program_page&_gl=1*1yt5yi8*_gcl_au*MjYzOTM0MTY1LjE3NzQ4NjY4NDc.*_ga*MTU2ODI1ODYyMS4xNzY1NjA5NDA2*_ga_JPHMK6RZT0*czE3NzkxNzA0NTIkbzY2JGcxJHQxNzc5MTcwNTMwJGo2MCRsMCRoMTQ1NDc3NDg1OQ.."><strong>Folks Finance</strong></a></td>
-<td>Immunefi</td>
-<td><strong>46th</strong></td>
-<td><code>1 L</code></td>
-<td>Mar 2026</td>
-<td><a href="https://reports.immunefi.com/folks-finance-staking-contracts?utm_source=boost_program_page&_gl=1*1yt5yi8*_gcl_au*MjYzOTM0MTY1LjE3NzQ4NjY4NDc.*_ga*MTU2ODI1ODYyMS4xNzY1NjA5NDA2*_ga_JPHMK6RZT0*czE3NzkxNzA0NTIkbzY2JGcxJHQxNzc5MTcwNTMwJGo2MCRsMCRoMTQ1NDc3NDg1OQ..">Report</a></td>
-</tr>
-<tr>
-<td><strong>Chainlink Staking v0.2</strong></td>
-<td>Code4rena</td>
-<td><strong>TBA</strong></td>
-<td><code>1 M, 1 L</code></td>
-<td>Aug 2023</td>
-<td>TBA</td>
-</tr>
-</tbody>
-</table>
 
-<br /><br />
+## Private Audits
 
-<div align="center">
+| Audit | Provider | Date | Report |
+| --- | --- | --- | --- |
+| Bio Security Review | Pashov Audit Group | Dec 2025 | [Report](https://github.com/pashov/audits/blob/master/team/pdf/Bio-security-review_2025-12-15.pdf) |
+| Private Audit | Pashov Audit Group | Private | Private |
+| Private Audit | Pashov Audit Group | Private | Private |
+
+<br>
 
 ## Work With Us
 
-</div>
-
-<br />
-
-<div align="center">
-
-<table width="100%" style="width: 100%;">
-<tr>
-<td align="center">
-
 For audit requests, send repo access, commit hash, docs, scope notes, and target delivery window.
-<br /><br />
-<a href="mailto:contact@noema-labs.com"><strong>contact@noema-labs.com</strong></a>
-<br />
-<a href="https://noema-labs.com"><strong>noema-labs.com</strong></a>
-<br />
-<a href="https://github.com/NoemaXLabs"><strong>github.com/NoemaXLabs</strong></a>
 
-<br /><br />
-
-Aamir: <a href="https://twitter.com/ua1552">@ua1552</a> &nbsp;|&nbsp; Aasif: <a href="https://twitter.com/Aasif1552">@Aasif1552</a>
-
-</td>
-</tr>
-</table>
-</div>
+- Telegram: [@NoemaLabs](https://t.me/NoemaLabs)
+- Website: [noemaxlabs.com](https://noemaxlabs.com)
+- Aamir: [@ua1552](https://twitter.com/ua1552)
+- Aasif: [@Aasif1552](https://twitter.com/Aasif1552)
